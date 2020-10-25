@@ -35,8 +35,8 @@ public class Person2 {
     }
 
     public boolean compare(Person2 per) {
-        Person2 per1 = this;
-        Person2 per2 = per;
+        Person2 per1 = this;//tq
+        Person2 per2 = per;//ts
         if (per1 == per2) {
             return true;
         }

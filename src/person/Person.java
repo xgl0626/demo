@@ -12,6 +12,7 @@ public class Person {
         this.age = age;
         this.color = color;
     }
+
     public String getColor() {
         return color;
     }
